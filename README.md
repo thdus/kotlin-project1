@@ -1,3 +1,4 @@
+#  숫자세기 앱
 
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/6c83d8e2-2d68-4809-a02c-c331515ff774">
 
